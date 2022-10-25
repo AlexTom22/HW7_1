@@ -1,4 +1,7 @@
-                   
+Домашняя работа № 7.1, сделанная на основе лекции Айгуль про POM
+
+
+Далее подсказки Айгуль:
 ## How to work with this repo
 
 - Fork repository in GitHub
